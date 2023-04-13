@@ -170,5 +170,5 @@
 - 실시간 경매 최고가, 남은 시간, 입찰 내역, 판매자 정보를 확인할 수 있다. <br>
 - 코인 잔액 내에서 입찰 가능하다. <br>
 - 경매 종료 후, 최고가 입찰자에게 NFT 소유권 이전 및 코인이 전송된다. <br>
-<br>
- [![경매장](https://user-images.githubusercontent.com/109332969/231621396-fb8fad85-73fb-4bc9-873a-6bb751716f6d.png?cachebust=1)](https://youtu.be/SXTjGhmPpiI)
+
+[![경매장](https://user-images.githubusercontent.com/109332969/231621396-fb8fad85-73fb-4bc9-873a-6bb751716f6d.png)](https://youtu.be/SXTjGhmPpiI)
