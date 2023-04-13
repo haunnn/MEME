@@ -171,4 +171,4 @@
 - 코인 잔액 내에서 입찰 가능하다. <br>
 - 경매 종료 후, 최고가 입찰자에게 NFT 소유권 이전 및 코인이 전송된다. <br>
 <br>
-    [![경매장](./src/youtube_preview.png)](https://youtu.be/SXTjGhmPpiI)
+    [![경매장](https://github.com/haunnn/MEME/blob/main/src/youtube_preview.png?raw=true)](https://youtu.be/SXTjGhmPpiI)
